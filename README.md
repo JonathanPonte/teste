@@ -5,7 +5,7 @@ Aqui estarão listados os desafios.
 - [Encontre o maior número](Encontre-o-maior-número.md)
 
 # Médio
-- [Encontre o produto máximo](Encontre-o-produto-máximo.md)
+- [Encontre o produto máximo](Encontre-o-produto-máximo.md)
 - [Desafio do xadrez](Desafio-do-xadrez.md)
 
 # Difícil
