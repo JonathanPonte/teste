@@ -10,4 +10,4 @@ Aqui estarão listados os desafios.
 
 # Difícil
 - [Construções](Robson-Construções.md)
-- [Encontre o índice do zero](Encontre-o-índice-de-zero.md)
+- [Encontre o índice do zero](Encontre-o-índice-de-zero.md)
