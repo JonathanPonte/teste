@@ -1,7 +1,7 @@
 Aqui estarão listados os desafios.
 
 # Fácil
-- [Desafio do array simples](Desafio-do-array-simples)
+- [Desafio do array simples](Desafio-do-array-simples.md)
 - [Encontre o maior número](Encontre-o-maior-número)
 
 # Médio
